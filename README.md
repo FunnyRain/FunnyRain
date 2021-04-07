@@ -1,6 +1,6 @@
 ### Превед медвед (つ✧ω✧)つ ![Profile views](https://gpvc.arturio.dev/FunnyRain)
 
-![he](https://github.com/FunnyRain/FunnyRain/blob/master/he.gif)
+![he](https://github.com/FunnyRain/FunnyRain/blob/master/opa.gif)
 
 ## Чо могу
 

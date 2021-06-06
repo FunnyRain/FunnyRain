@@ -16,3 +16,7 @@
 
 ## Статистика (i'm not lazy :c)
 <img src="https://github-readme-stats.vercel.app/api?username=FunnyRain&show_icons=true&count_private=true">
+
+## На чём кодил за последние 7 дней:
+
+[![FunnyRain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FunnyRain&v=2)](https://github.com/anuraghazra/github-readme-stats)
